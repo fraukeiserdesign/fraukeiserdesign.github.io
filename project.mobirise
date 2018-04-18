@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "fraukeiserdesign",
-    "currentPage": "portfolio.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -236,7 +236,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Backdropgestaltung für eine Messe<br>20billion",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animiert",
@@ -399,30 +399,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/logo-wd-1701x992.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-wd-1701x992-800x466.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
-                "active": false
-              },
-              {
-                "tags": "Animiert",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/poster-mockup-307-800x1040.png",
-                "thumb": "@PROJECT_PATH@/assets/images/poster-mockup-307-800x1040-800x1040.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Plakatkampange<br>Welttag der Suizidprävention",
-                "active": false
-              },
-              {
-                "tags": "Animiert",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/logo-krise-1701x992.png",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-krise-1701x992-800x466.png",
                 "alt": "",
@@ -447,23 +423,11 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/flyer-innen-1476x984.png",
-                "thumb": "@PROJECT_PATH@/assets/images/flyer-innen-1476x984-799x533.png",
+                "image": "@PROJECT_PATH@/assets/images/poster-mockup-307-800x1040.png",
+                "thumb": "@PROJECT_PATH@/assets/images/poster-mockup-307-800x1040-800x1040.png",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
-                "active": false
-              },
-              {
-                "tags": "Animiert",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/flyer-krise-1291x968.png",
-                "thumb": "@PROJECT_PATH@/assets/images/flyer-krise-1291x968-800x599.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "caption": "Plakatkampange<br>Welttag der Suizidprävention",
                 "active": false
               },
               {
@@ -488,42 +452,6 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Plakatkampange<br>Kriminalität in Deutschland",
-                "active": false
-              },
-              {
-                "tags": "Animiert",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/plakat-rot-742x965.png",
-                "thumb": "@PROJECT_PATH@/assets/images/plakat-rot-742x965-742x965.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
-                "active": false
-              },
-              {
-                "tags": "Animiert",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/plakat-blau-742x965.png",
-                "thumb": "@PROJECT_PATH@/assets/images/plakat-blau-742x965-742x965.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
-                "active": false
-              },
-              {
-                "tags": "Animiert",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/plakat-schwarz-765x995.png",
-                "thumb": "@PROJECT_PATH@/assets/images/plakat-schwarz-765x995-765x995.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
                 "active": false
               },
               {
@@ -579,12 +507,84 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/logo-wd-1701x992.png",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-wd-1701x992-800x466.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "active": false
+              },
+              {
+                "tags": "Animiert",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/prospekt-1316x987.png",
                 "thumb": "@PROJECT_PATH@/assets/images/prospekt-1316x987-800x600.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
                 "active": false
+              },
+              {
+                "tags": "Animiert",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/plakat-schwarz-765x995.png",
+                "thumb": "@PROJECT_PATH@/assets/images/plakat-schwarz-765x995-765x995.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "active": false
+              },
+              {
+                "tags": "Animiert",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/flyer-innen-1476x984.png",
+                "thumb": "@PROJECT_PATH@/assets/images/flyer-innen-1476x984-799x533.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "active": false
+              },
+              {
+                "tags": "Animiert",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/flyer-krise-1291x968.png",
+                "thumb": "@PROJECT_PATH@/assets/images/flyer-krise-1291x968-800x599.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "active": false
+              },
+              {
+                "tags": "Animiert",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/plakat-blau-742x965.png",
+                "thumb": "@PROJECT_PATH@/assets/images/plakat-blau-742x965-742x965.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "active": false
+              },
+              {
+                "tags": "Animiert",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/plakat-rot-742x965.png",
+                "thumb": "@PROJECT_PATH@/assets/images/plakat-rot-742x965-742x965.png",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Speisekartengestaltung<br>Pizzarialieferservice | Lammbock Steinofen",
+                "active": true
               }
             ]
           }
